@@ -12,7 +12,7 @@ function SocialLinks() {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "linkedin.com/in/sambit-kumar-bhanjadeo",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ function SocialLinks() {
           Github <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com",
+      href: "https://github.com/sambit45",
     },
     {
       id: 3,
