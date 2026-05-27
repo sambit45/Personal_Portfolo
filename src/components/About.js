@@ -13,30 +13,24 @@ function About() {
           </p>
         </div>
         <p className="text-base sm:text-xl mt-10 sm:mt-20">
-          I am a skilled and passionate full-stack developer with a strong focus
-          on building dynamic and scalable web applications. My expertise lies
-          in leveraging modern technologies like React for front-end development
-          and Spring Boot for backend services, along with SQL for efficient
-          database management. Over time, I have developed a variety of
-          projects, including a robust project management system that allows
-          users to manage projects, track issues, and collaborate in real-time
-          through chat and comments. Additionally, I have created an e-commerce
-          platform with seamless user experience and a streamlined task
-          management application, demonstrating my ability to handle both
-          complex front-end interactions and backend logic.
+          I’m a Backend-focused Full Stack Developer with 3+ years of experience
+          building scalable web applications and modern backend systems using
+          Java, Spring Boot, Microservices, React, SQL, Docker, Kafka, and AWS
+          technologies. I enjoy designing clean architectures, developing secure
+          REST APIs, and building applications that are scalable, maintainable,
+          and production-ready.
         </p>
+
         <br />
 
         <p className="text-base sm:text-xl">
-          With a keen eye for clean and responsive design, I use tools like
-          Tailwind CSS and ShadcnUI to deliver intuitive and visually appealing
-          user interfaces. I am also proficient in using Redux Toolkit for
-          efficient state management in React applications, ensuring performance
-          and scalability. Driven by a problem-solving mindset, I am
-          continuously improving my skills in Java, JavaScript, and various web
-          technologies to build solutions that meet modern business
-          requirements. My focus is on creating high-quality applications that
-          deliver value and enhance user experience.
+          Over time, I’ve built several full-stack and cloud-native projects
+          including a Serverless File Upload System, Project Management
+          Platform, and Expense Tracker Application. My interests lie in backend
+          engineering, distributed systems, cloud technologies, and system
+          design. I’m continuously exploring modern development practices and
+          improving my understanding of scalable architectures to build
+          efficient and impactful software solutions.
         </p>
       </div>
     </div>
