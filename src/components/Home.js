@@ -15,12 +15,13 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 year+ of Experience building and designing
-            software.Cuurently I love to work on web application using
-            technologies like React,Springboot,Tailwind,Sql.
+            Backend-focused Full Stack Developer with 3+ years of experience
+            building scalable applications using Java, Spring Boot,
+            Microservices, React, SQL, Docker, Kafka, and AWS cloud
+            technologies.
           </p>
           <div>
-          <Link to={"Portfolio"} smooth duration={500}>
+            <Link to={"Portfolio"} smooth duration={500}>
               <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
                 Portfolio
                 <span className="group-hover:rotate-90 duration-300">
