@@ -12,7 +12,7 @@ function SocialLinks() {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "linkedin.com/in/sambit-kumar-bhanjadeo",
+      href: "https://www.linkedin.com/in/sambit-kumar-bhanjadeo",
       style: "rounded-tr-md",
     },
     {
