@@ -40,7 +40,7 @@ function SocialLinks() {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Sambit_Resume.pdf",
+      href: "/Resume_Sambit_Kumar.pdf",
       style: "rounded-br-md",
       download: true,
     },
